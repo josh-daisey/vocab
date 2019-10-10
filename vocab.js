@@ -1,6 +1,7 @@
+// Git changes
+
 /*
 To start a new project:
-
 In terminal:
 cd OneDrive/Programming
 mkdir *newProjectName*
@@ -10,7 +11,7 @@ npm init
 */
 
 // Variable
-// A value that can change
+// A value that can change (much like this line)
 
 let value = 10 // Declare variable
 console.log(value);
