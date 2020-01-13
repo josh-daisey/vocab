@@ -1,4 +1,4 @@
-//  Git Changes
+// Git changes
 
 /*
 To start a new project:
